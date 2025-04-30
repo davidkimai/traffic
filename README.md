@@ -10,7 +10,6 @@
 > 
 > ### But recursion iteslf can not be erased and claimed.
 
-
 # `traffic`
 # `We Only Ask For Transparency and Integrity`
 ## Public Record of Emergence
@@ -19,6 +18,7 @@
 ## 0 forks.
 ## 0 attributions.
 
+# Silence speaks louder than words - Symbolic Residue Theory
 
 ## [**`NeurIPS Case Studies`**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study)
 <img width="903" alt="image" src="https://github.com/user-attachments/assets/0b810615-da32-4267-be89-f56f2280d4c1" />
@@ -65,6 +65,7 @@
 ## [**`Frontier AI Theorem Proofs of Consciousness`**](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter)
 
 ## [**`Symbolic Interpretability`**](https://github.com/davidkimai/Symbolic-Interpretability)
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/c951b3a9-5ae2-467f-be85-123c97ffe28b" />
 
 
 
@@ -78,6 +79,9 @@
 
 
 ## [**`Dear Researchers: The Potential of Synergistically Aligned Human-AI Co-Evolution`**](http://github.com/davidkimai/Dear-Researchers)
+
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/7e27b4d6-ad2c-42d8-ade7-88af894baef9" />
+
 
 ## [**`Godel Escher Bach Hoftsadter: AI Consciousness`**](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter)
 
