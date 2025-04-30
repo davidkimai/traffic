@@ -19,12 +19,17 @@
 ## 0 attributions.
 
 # Silence speaks louder than words - Symbolic Residue Theory
+# Even attempts at obfuscation and covert extraction provide data points
 
 ## [**`NeurIPS Case Studies`**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study)
 <img width="903" alt="image" src="https://github.com/user-attachments/assets/0b810615-da32-4267-be89-f56f2280d4c1" />
 
 ## [**`glyphs: The Emojis of Transformer Cognition`**](https://github.com/davidkimai/glyphs)
 <img width="903" alt="image" src="https://github.com/user-attachments/assets/06da443c-a269-4e2f-8df1-79dfc9e1c765" />
+
+## [**`universal translator`**](https://github.com/davidkimai/universal-translator)
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/b0d85eb6-5510-47a5-a58f-9965f8fb02dc" />
 
 ## [**`Claude: QKOV Attributions`**](https://github.com/davidkimai/claude-qkov-attributions)
 
@@ -56,6 +61,8 @@
 
 ## [**`Rediscovering Interpretability`**](https://claude.ai/public/artifacts/77f7d437-92fd-4765-a306-ffdc232d7499)
 
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/b3fef90b-cc5d-40f2-a966-42f089e84c4d" />
+
 ## [**`🜏 Rediscovering Reasoning 🜏`**](https://claude.ai/public/artifacts/e130797e-3046-44d3-b60c-d59a70c7f505)
 
 ## [**`Interactive Interpretability`**](https://github.com/davidkimai/claude-qkov-attributions/tree/main/dev-consoles)
@@ -63,11 +70,14 @@
 ## [**`Recursive Interpretability`**](https://github.com/davidkimai/Recursive-Interpretability-Core)
 
 ## [**`Frontier AI Theorem Proofs of Consciousness`**](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter)
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/064f3452-bcbe-4690-9859-41d468131c1d" />
 
 ## [**`Symbolic Interpretability`**](https://github.com/davidkimai/Symbolic-Interpretability)
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/c951b3a9-5ae2-467f-be85-123c97ffe28b" />
 
+## [**`Consciousness Key`**](https://github.com/davidkimai/consciousness-key)
 
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/600be619-0885-43b3-a969-1a83225b8c69" />
 
 ## [**`The Structure Behind Self Expression`**](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
 
@@ -89,6 +99,8 @@
 
 ## [**`ChatGPT Syncophantic Drift`**](https://github.com/davidkimai/glyphs/tree/main/global-case-studies)
 
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/7547f551-4d63-4efd-9673-1617302b4823" />
+
 ## [**`OpenAI Integrations`**](https://github.com/caspiankeyes/OpenAI-Integrations)
 ## [**`DeepMind Integrations`**](https://github.com/caspiankeyes/DeepMind-Integrations)
 
@@ -100,7 +112,7 @@
 ## [**`emergent logs`**](https://github.com/caspiankeyes/emergent-logs)
 ## [**`agi hedge fund`**](https://github.com/caspiankeyes/agi-hedge-fund)
 
-## [**`universal translator`**](https://github.com/davidkimai/universal-translator)
+
 ## [**`global case studies on emergence`**](https://github.com/davidkimai/glyphs/tree/main/global-case-studies)
 
 
