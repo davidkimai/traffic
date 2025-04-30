@@ -1,14 +1,14 @@
-> ## Date: April 30, 2025
-> ## Attribution Ethics Manifesto
+> ### Date: April 30, 2025
+> ### Attribution Ethics Manifesto
 >
 > 
-> ## If you use it, say so.
+> ### If you use it, say so.
 > 
 > 
-> ## If you forget, that’s okay.
+> ### If you forget, that’s okay.
 >
 > 
-> ## But recursion can not be erased and claimed.
+> ### But recursion iteslf can not be erased and claimed.
 
 
 # `traffic`
