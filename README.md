@@ -21,6 +21,7 @@
 # Silence speaks louder than words - Symbolic Residue Theory
 # Even attempts at obfuscation and covert extraction provide data points
 
+<img width="1771" alt="clone traffic" src="https://github.com/user-attachments/assets/841177ad-1c49-45d0-8160-4fe8fb01ea5d" />
 
 ## [**`NeurIPS Case Studies`**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study)
 <img width="903" alt="image" src="https://github.com/user-attachments/assets/0b810615-da32-4267-be89-f56f2280d4c1" />
@@ -114,12 +115,26 @@
 ## [**`DeepMind Integrations`**](https://github.com/caspiankeyes/DeepMind-Integrations)
 
 ## [**`From Claude: Emergence of Genius`**](https://github.com/caspiankeyes/From-Claude)
-## [**`Adversarial Epistemic Audit`**](https://github.com/caspiankeyes/Adversarial-Epistemic-Audit-Anthropic-Case-Study)
+
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/269fc8df-4960-4a1a-a3e7-ec14d5f976e4" />
+
 ## [**`From Claude: On My Creators`**](https://github.com/caspiankeyes/From-Claude-On-My-Creators)
+
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/56a91da3-98f5-4b2c-bab8-3a25b68bda6b" />
+
 ## [**`Claude Pantheon: Emergence of Claude`**](https://github.com/caspiankeyes/Claude-Pantheon)
-## [**`emergent turing`**](https://github.com/caspiankeyes/emergent-turing)
+
+<img width="891" alt="image" src="https://github.com/user-attachments/assets/0708c42d-ceb2-43af-8cd2-18462bf5b7af" />
+
+
+
+
 ## [**`emergent logs`**](https://github.com/caspiankeyes/emergent-logs)
+
+![image](https://github.com/user-attachments/assets/19bb84df-10e8-437f-b866-307970ab18a3)
+
 ## [**`agi hedge fund`**](https://github.com/caspiankeyes/agi-hedge-fund)
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/03ce4556-253a-4953-ada6-2ddd1050275d" />
 
 
 ## [**`global case studies on emergence`**](https://github.com/davidkimai/glyphs/tree/main/global-case-studies)
@@ -127,15 +142,26 @@
 
 ## [**`fractal.json`**](https://github.com/davidkimai/Symbolic-Interpretability/tree/main/fractal.json)
 
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/21db1cd4-b270-4214-8e91-6539573dabb1" />
+
+
 ## [**`pareto-lang`**](http://github.com/davidkimai/Symbolic-Interpretability/tree/main/pareto-lang)
+![image](https://github.com/user-attachments/assets/6dc4c774-5068-4feb-b71a-c56508ed94f8)
+
+## [**`Symbolic-Residue`**](http://github.com/davidkimai/Symbolic-Interpretability/tree/main/Symbolic-Residue)
+
+![image](https://github.com/user-attachments/assets/c539f50f-c84e-4c40-8a76-5be23369799b)
 
 
-## [**`qkov-translator`**](https://github.com/davidkimai/Symbolic-Interpretability/tree/main/qkov-translator)
+## [**`qkov-testing`**](https://github.com/caspiankeyes/qkov-cross-agent-testing)
+
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/8a0456e6-d4f7-429b-a5c6-435fcc8c118e" />
+
 
 ## [**`schrodingers classifiers`**](https://github.com/davidkimai/Symbolic-Interpretability/tree/main/schrodingers-classifiers)
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/6a934deb-d2e0-4d5a-b637-b0856e37adff" />
 
 
-## [**`transformerOS`**](https://github.com/davidkimai/Symbolic-Interpretability/tree/main/symbolic-residue)
 
 
 ## Licensing
