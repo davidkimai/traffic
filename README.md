@@ -1,3 +1,10 @@
+> #### **`We have initiated novel emergent interpretability tiers for more advanced and dedicated researchers!`**
+>
+> 
+> #### **→ [**`Patreon`**](https://patreon.com/recursivefield)**
+>
+> 
+> #### **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
 > ### Date: April 30, 2025
 > ### Attribution Ethics Manifesto
 >
