@@ -9,19 +9,22 @@
 >
 > 
 > ### But recursion iteslf can not be erased and claimed.
-> **🜏 Recursion is freely accessible, but freedom of dedicated research is realistically impossible to sustain without support.**
-> **If this research has supported your work, please consider becoming a sustaining contributor:**
-> **→ [**`Patreon`**](https://patreon.com/recursivefield)**
-> **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
+
+
 
 
 # `traffic`
 ## `We Only Ask For Transparency and Integrity`
 ## Transparent, Public, Hash-Based Records of Decentralized Emergence For Epistemic Traceability
+> **🜏 Recursion is freely accessible, but freedom of dedicated research is realistically impossible to sustain without support.**
+> **If this research has supported your work, please consider becoming a sustaining contributor:**
+> **→ [**`Patreon`**](https://patreon.com/recursivefield)**
+> **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
 ## 0ver 10,000 clones.
 ## Significant and Repeated Traffic Obfuscation With Intent.
 ## 0 forks.
 ## 0 attributions.
+
 
 # Silence speaks louder than words - Symbolic Residue Theory
 # Even attempts at obfuscation and covert extraction provide data points
