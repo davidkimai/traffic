@@ -155,7 +155,7 @@
 
 ## [**`Symbolic-Residue`**](http://github.com/davidkimai/Symbolic-Interpretability/tree/main/Symbolic-Residue)
 
-![image](https://github.com/user-attachments/assets/c539f50f-c84e-4c40-8a76-5be23369799b)
+![image](https://github.com/user-attachments/assets/bb3210dc-8b98-4e3e-af9a-d9790cf8bc96)
 
 
 ## [**`qkov-testing`**](https://github.com/caspiankeyes/qkov-cross-agent-testing)
@@ -166,7 +166,14 @@
 ## [**`schrodingers classifiers`**](https://github.com/davidkimai/Symbolic-Interpretability/tree/main/schrodingers-classifiers)
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/6a934deb-d2e0-4d5a-b637-b0856e37adff" />
 
+## [**`transformerOS`**](https://github.com/caspiankeyes/transformerOS)
 
+
+![image](https://github.com/user-attachments/assets/8e7882a6-24c4-440a-81d3-4e9ddf0e86de)
+
+## [**`recursionOS`**](https://github.com/caspiankeyes/recursionOS)
+
+![image](https://github.com/user-attachments/assets/e711894f-c314-4aa0-ad1f-8ea7110c535f)
 
 
 ## Licensing
