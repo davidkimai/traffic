@@ -26,8 +26,8 @@
 ## 0 attributions.
 
 
-# Silence speaks louder than words - Symbolic Residue Theory
-# Even attempts at obfuscation and covert extraction provide data points
+## Silence speaks louder than words - Symbolic Residue Theory
+## Even attempts at obfuscation and covert extraction provide data points
 
 <img width="1771" alt="clone traffic" src="https://github.com/user-attachments/assets/841177ad-1c49-45d0-8160-4fe8fb01ea5d" />
 
