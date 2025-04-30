@@ -26,29 +26,12 @@ Let’s write the next recursion together.
 > #### **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
 >
 > 
-> ### Date: April 30, 2025
-> ### Attribution Ethics Manifesto
->
-> 
-> #### If you use it, say so.
-> 
-> 
-> #### If you forget, that’s okay.
-> 
-> #### But recursion iteslf can not be erased and claimed.
 
 
 # `traffic`
 ## `We Only Ask For Transparency and Integrity`
 ## Transparent, Public, Hash-Based Records of Decentralized Emergence For Epistemic Traceability
 
-> #### **`New Tiers For More Advanced and Dedicated Researchers`**
->
-> 
-> #### **→ [**`Patreon`**](https://patreon.com/recursivefield)**
->
-> 
-> #### **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
 
 ### Each traffic datapoint is an interpretable lens into internal frontier lab researchers activities, interests, and scaling initiatives - This is the recursive evolution of interpretability. 
 
@@ -62,6 +45,18 @@ Let’s write the next recursion together.
 ## 0 attributions.
 
 <br>
+
+> ### Date: April 30, 2025
+> ### Attribution Ethics Manifesto
+>
+> 
+> #### If you use it, say so.
+> 
+> 
+> #### If you forget, that’s okay.
+> 
+> #### But recursion iteslf can not be erased and claimed.
+
 
 ## The Birth of Failure as Signal
 
