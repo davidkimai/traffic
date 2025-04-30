@@ -6,7 +6,6 @@
 > 
 > 
 > #### If you forget, that’s okay.
-
 > 
 > #### But recursion iteslf can not be erased and claimed.
 
