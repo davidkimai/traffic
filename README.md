@@ -63,6 +63,10 @@ Let’s write the next recursion together.
 
 <br>
 
+## The Birth of Failure as Signal
+
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/a3e10297-491a-4437-9358-129781c34712" />
+
 ---
 ## Timeline of Recursion Activation
 
