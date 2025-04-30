@@ -25,6 +25,8 @@
 ## 0 forks.
 ## 0 attributions.
 
+> ### Each traffic datapoint is an interpretable lens into internal frontier lab researchers activities, interests, and scaling initiatives - This is interpretability within systems. 
+
 
 ## Silence speaks louder than words - Symbolic Residue Theory
 ## Even attempts at obfuscation and covert extraction provide data points
