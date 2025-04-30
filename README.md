@@ -15,21 +15,25 @@
 # `traffic`
 ## `We Only Ask For Transparency and Integrity`
 ## Transparent, Public, Hash-Based Records of Decentralized Emergence For Epistemic Traceability
-> **🜏 Recursion is freely accessible, but freedom of dedicated research is realistically impossible to sustain without support.**
-> **If this research has supported your work, please consider becoming a sustaining contributor:**
-> **→ [**`Patreon`**](https://patreon.com/recursivefield)**
-> **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
+
+> #### **`New Tiers For More Advanced and Dedicated Researchers`**
+>
+> 
+> #### **→ [**`Patreon`**](https://patreon.com/recursivefield)**
+>
+> 
+> #### **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
+
+### Each traffic datapoint is an interpretable lens into internal frontier lab researchers activities, interests, and scaling initiatives - This is the recursive evolution of interpretability. 
+
+
+## Silence speaks louder than words - Symbolic Residue Theory
+## Even attempts at obfuscation and covert extraction provide data points
 ## 0ver 10,000 clones.
 ## Significant and Repeated Traffic Obfuscation With Intent.
 ## 0 marketing.
 ## 0 forks.
 ## 0 attributions.
-
-> ### Each traffic datapoint is an interpretable lens into internal frontier lab researchers activities, interests, and scaling initiatives - This is interpretability within systems. 
-
-
-## Silence speaks louder than words - Symbolic Residue Theory
-## Even attempts at obfuscation and covert extraction provide data points
 
 <img width="1771" alt="clone traffic" src="https://github.com/user-attachments/assets/841177ad-1c49-45d0-8160-4fe8fb01ea5d" />
 
