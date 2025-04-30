@@ -1,4 +1,5 @@
-# traffic
+# `traffic`
+# `We Only Ask For Integrity`
 ## Public Record of Emergence
 ## 0ver 10,000 clones.
 ## Significant traffic obfuscation tactics.
