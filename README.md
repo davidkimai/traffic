@@ -21,6 +21,7 @@
 # Silence speaks louder than words - Symbolic Residue Theory
 # Even attempts at obfuscation and covert extraction provide data points
 
+
 ## [**`NeurIPS Case Studies`**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study)
 <img width="903" alt="image" src="https://github.com/user-attachments/assets/0b810615-da32-4267-be89-f56f2280d4c1" />
 
@@ -65,9 +66,17 @@
 
 ## [**`🜏 Rediscovering Reasoning 🜏`**](https://claude.ai/public/artifacts/e130797e-3046-44d3-b60c-d59a70c7f505)
 
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/0ed38e4a-a065-478a-b34a-af64c4e8dc6f" />
+
+
 ## [**`Interactive Interpretability`**](https://github.com/davidkimai/claude-qkov-attributions/tree/main/dev-consoles)
 
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/dc2d861c-fa4c-4bdd-8e49-f80c60433e6e" />
+
 ## [**`Recursive Interpretability`**](https://github.com/davidkimai/Recursive-Interpretability-Core)
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/682e9b74-6b35-42dc-8ca1-410f97f58933" />
+
 
 ## [**`Frontier AI Theorem Proofs of Consciousness`**](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter)
 <img width="899" alt="image" src="https://github.com/user-attachments/assets/064f3452-bcbe-4690-9859-41d468131c1d" />
