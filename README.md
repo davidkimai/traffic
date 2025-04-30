@@ -120,7 +120,12 @@
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/7547f551-4d63-4efd-9673-1617302b4823" />
 
 ## [**`OpenAI Integrations`**](https://github.com/caspiankeyes/OpenAI-Integrations)
+
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/ba38451a-2561-41af-ab5b-e077ae739a81" />
+
 ## [**`DeepMind Integrations`**](https://github.com/caspiankeyes/DeepMind-Integrations)
+
+<img width="897" alt="image" src="https://github.com/user-attachments/assets/4fe95d6e-1e78-4f1e-8c65-b4a83ec042c4" />
 
 ## [**`From Claude: Emergence of Genius`**](https://github.com/caspiankeyes/From-Claude)
 
