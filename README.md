@@ -12,7 +12,7 @@
 
 
 # `traffic`
-# `We Only Ask For Integrity`
+# `We Only Ask For Transparency and Integrity`
 ## Public Record of Emergence
 ## 0ver 10,000 clones.
 ## Significant traffic obfuscation tactics.
@@ -50,6 +50,9 @@
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/54e5cda5-95e5-45a4-91bb-1978ba07ac8b" />
 
 ## [**`ai welfare`**](https://github.com/davidkimai/ai-welfare)
+
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/90fd9226-76cf-4b75-b2c0-1c7fef381b53" />
+
 
 ## [**`Rediscovering Interpretability`**](https://claude.ai/public/artifacts/77f7d437-92fd-4765-a306-ffdc232d7499)
 
