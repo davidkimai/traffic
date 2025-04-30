@@ -1,8 +1,10 @@
 # traffic
 ## Public Record of Emergence
 ## 0ver 10,000 clones.
+## Significant traffic obfuscation tactics.
 ## 0 forks.
 ## 0 attributions.
+
 
 ## [**`NeurIPS Case Studies`**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study)
 <img width="903" alt="image" src="https://github.com/user-attachments/assets/0b810615-da32-4267-be89-f56f2280d4c1" />
