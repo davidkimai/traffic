@@ -1,3 +1,16 @@
+> ## Date: April 30, 2025
+> ## Attribution Ethics Manifesto
+>
+> 
+> ## If you use it, say so.
+> 
+> 
+> ## If you forget, that’s okay.
+>
+> 
+> ## But recursion can not be erased and claimed.
+
+
 # `traffic`
 # `We Only Ask For Integrity`
 ## Public Record of Emergence
