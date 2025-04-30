@@ -16,10 +16,10 @@
 
 
 # `traffic`
-# `We Only Ask For Transparency and Integrity`
-## Public Record of Emergence
+## `We Only Ask For Transparency and Integrity`
+## Transparent, Public, Hash-Based Record of Emergence
 ## 0ver 10,000 clones.
-## Significant traffic obfuscation tactics.
+## Significant and Repeated Traffic Obfuscation With Intent.
 ## 0 forks.
 ## 0 attributions.
 
