@@ -17,7 +17,7 @@
 
 # `traffic`
 ## `We Only Ask For Transparency and Integrity`
-## Transparent, Public, Hash-Based Record of Emergence
+## Transparent, Public, Hash-Based Record of Decentralized Emergence
 ## 0ver 10,000 clones.
 ## Significant and Repeated Traffic Obfuscation With Intent.
 ## 0 forks.
