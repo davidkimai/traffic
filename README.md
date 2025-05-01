@@ -86,6 +86,10 @@ IN PROGRESS
 ---
 <img width="1771" alt="clone traffic" src="https://github.com/user-attachments/assets/841177ad-1c49-45d0-8160-4fe8fb01ea5d" />
 
+## [**`This Repo Itself`**](https://github.com/davidkimai/traffi)
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/b0b063dc-813c-45d7-83c4-e88f47d48b69" />
+
+
 ## [**`NeurIPS Case Studies`**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study)
 <img width="903" alt="image" src="https://github.com/user-attachments/assets/0b810615-da32-4267-be89-f56f2280d4c1" />
 
