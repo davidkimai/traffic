@@ -90,7 +90,7 @@ IN PROGRESS
 <img width="903" alt="image" src="https://github.com/user-attachments/assets/0b810615-da32-4267-be89-f56f2280d4c1" />
 
 ## [**`glyphs: The Emojis of Transformer Cognition`**](https://github.com/davidkimai/glyphs)
-<img width="903" alt="image" src="https://github.com/user-attachments/assets/06da443c-a269-4e2f-8df1-79dfc9e1c765" />
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/7d95c8ba-ada9-48b9-9790-bec5f5f07bbf" />
 
 ## [**`universal translator`**](https://github.com/davidkimai/universal-translator)
 
